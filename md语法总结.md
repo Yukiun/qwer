@@ -57,7 +57,8 @@
 
     与链接一样只是在开头多了个!
     比如：!\[面灵气](https://yys-fans.fp.ps.netease.com/file/5bc2240e6f049459bd36d994IaCEkYtx?fop=imageView/2/w/845/h/604)
-    结果是：![面灵气](https://yys-fans.fp.ps.netease.com/file/5bc2240e6f049459bd36d994IaCEkYtx?fop=imageView/2/w/845/h/604)
+    结果是：
+   ![面灵气](https://yys-fans.fp.ps.netease.com/file/5bc2240e6f049459bd36d994IaCEkYtx?fop=imageView/2/w/845/h/604)
 
 ---
 7. #### 代码框
